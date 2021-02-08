@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "깃헙 블로그 시작"
+author: Yi MoonSeok
 date:   2021-02-08 20:40:36 +0530
 categories: Post
 ---
